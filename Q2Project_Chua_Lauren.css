@@ -1,0 +1,38 @@
+			body{
+				background-color: #f5ebdc;
+			}
+			td{
+				background-color: #E5CCA6;
+				padding: 5px 5px 5px;
+			}
+			table{
+				border-style: inherit;
+    			border-color: black;
+    			border-width: 5;
+			}
+			.C1{
+				background-color: white;
+    			height: 50px;
+			}
+			.C2{
+				background-color: #502314; 
+				color: white;
+			}
+			h3{
+				background-color: #efe2cf
+			}
+			h1{
+				color: #f5ebdc;
+				text-shadow: 1px 1px #BEB7AC;
+				text-align: center;
+				text-decoration: overline;
+				letter-spacing: 4px
+			}
+			span{
+				font-weight: bold;
+			}
+			img{
+    			display: block;
+  				margin-left: auto;
+  				margin-right: auto;    		
+  			}
